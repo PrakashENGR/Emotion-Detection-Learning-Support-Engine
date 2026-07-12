@@ -1,5 +1,0 @@
-Domain Adaptation Results
-=========================
-
-Validation Accuracy : 25.00%
-Validation Loss : 2.2974
