@@ -64,7 +64,7 @@ PyTest	Unit Testing
 Git & GitHub	Version Control
 🚀 Installation
 1. Clone Repository
-git clone [https://github.com/samxiao0/skill-wallet---GenAI-Project-.git]
+git clone [https://github.com/PrakashENGR/Emotion-Detection-Learning-Support-Engine.git]
 
 cd personalized-networking-assistant
 2. Create Virtual Environment
