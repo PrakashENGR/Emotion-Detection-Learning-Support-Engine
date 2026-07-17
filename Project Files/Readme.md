@@ -3,17 +3,29 @@ An AI-powered networking assistant that helps users generate personalized conver
 
 Built using FastAPI, Streamlit, Natural Language Processing (NLP), and Wikipedia API.
 
+
 📌 Features
+
 🔍 Analyze networking event descriptions
+
 🧠 Detect important topics using NLP
+
 💬 Generate personalized conversation starters
+
 📚 Verify topics using Wikipedia
+
 📝 Save conversation history
+
 👍👎 Collect user feedback on suggestions
+
 📄 Download conversation reports as PDF
+
 🧪 Unit testing with PyTest
+
 📖 Interactive API documentation using Swagger UI
+
 🏗️ Project Architecture
+
 User
   ↓
 Streamlit Frontend
@@ -28,6 +40,7 @@ Services Layer
  └── Feedback Logger
   ↓
 JSON Storage + Wikipedia API
+
 📂 Project Structure
 personalized-networking-assistant/
 │
@@ -62,6 +75,7 @@ Wikipedia API	Fact Verification
 ReportLab	PDF Generation
 PyTest	Unit Testing
 Git & GitHub	Version Control
+
 🚀 Installation
 1. Clone Repository
 git clone [https://github.com/PrakashENGR/Emotion-Detection-Learning-Support-Engine.git]
@@ -79,6 +93,7 @@ Linux / macOS
 source .venv/bin/activate
 3. Install Dependencies
 pip install -r requirements.txt
+
 ▶️ Run Backend
 python -m uvicorn app.main:app --reload
 Backend runs at:
@@ -87,11 +102,13 @@ http://127.0.0.1:8000
 Swagger API Documentation:
 
 http://127.0.0.1:8000/docs
+
 ▶️ Run Frontend
 streamlit run frontend/streamlit_app.py
 Frontend runs at:
 
 http://localhost:8501
+
 🧪 Running Tests
 Run all test cases:
 
@@ -99,7 +116,9 @@ pytest -v
 Example output:
 
 ================ 5 passed =================
+
 📷 Application Screenshots
+
 🏠 Home Page
 Home Page
 
@@ -116,6 +135,7 @@ Cloud deployment
 Database integration (MongoDB/PostgreSQL)
 Analytics dashboard
 Dark mode support
+
 👨‍💻 Author
 PEDDALACHIGALLA OMPRAKASH
 
